@@ -1,5 +1,5 @@
 # NBA-score-prediction-KNN
-Predicting score of NBA players using K-Nearest-Neighbors 
+Predicting score of NBA players using K-Nearest-Neighbors
 
 - Here are some selected columns from the data:  
 -- player - name of the player  
