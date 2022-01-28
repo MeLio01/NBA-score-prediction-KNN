@@ -11,4 +11,5 @@ Predicting score of NBA players using K-Nearest-Neighbors
 - The data was analysed and processed by dropping the columns which were not required. Then the fields were normalized. 
 - The training set consists 70% of the data based on random selection. The rest was used as test data. 
 - After refining the data, KNN model was trained using Sklearn Library.
+- The Mean Squared Error for the model is 0.0012986.
 
